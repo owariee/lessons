@@ -4,7 +4,11 @@ transition: zoom
 
 ## Preparações - Metodologia
 
-A construção de jogos com o Construct pode parecer complexa mas na verdade é simples.
-Eu vou começar mostrando hoje o básico do Construct pra vocês terem uma noção de como é usar ele.
+* O Python é uma linguagem usada profissionalmente e tem tudo que você pode desejar de uma linguagem 
+de programação moderna. 
 
-![Construct](assets/img/construct.png){:width="200"}
+* Ela é dinamicamente tipada, o que significa que podemos ou não atribuir tipos.
+Se não atribuirmos tipos, o interpretador deve atribuir os mesmos. 
+
+* Para facilitar, vamos usar a implementação do Python no Google Collab que permite
+a execução tardia de linhas.

@@ -3,8 +3,8 @@
 
 # Introdução ao
 
-## Construct 3
+## Python
 
-Fundamentos essenciais para construção de jogos com o Construct.
+Fundamentos básicos de programação com Python.
 
 ![Super Mario NES](assets/img/mario.gif)

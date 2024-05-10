@@ -2,13 +2,9 @@
 transition: zoom
 ---
 
-## Preparações - Metodologia 2
+## Preparações - Metodologia
 
+A construção de jogos com o Construct pode parecer complexa mas na verdade é simples.
+Eu vou começar mostrando hoje o básico do Construct pra vocês terem uma noção de como é usar ele.
 
-Q: Então, como explicar toda essa complexidade para uma criança?
-
-Simples. Abstração!
-
-1. Você não precisa saber que aquela complexidade existe. 
-A menos que você queira se tornar um programador de baixo nível.
-2. Você só precisa saber como usar as variáveis para seu caso de uso específico.
+![Construct](assets/img/construct.png){:width="200"}

@@ -1,10 +1,10 @@
 ---
 ---
 
-# Introdução à
+# Introdução ao
 
-## Lógica de Programação 
+## Construct 3
 
-Fundamentos essenciais que todo programador precisa saber.
+Fundamentos essenciais para construção de jogos com o Construct.
 
 ![Super Mario NES](assets/img/mario.gif)

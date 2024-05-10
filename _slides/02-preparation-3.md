@@ -2,9 +2,11 @@
 transition: zoom
 ---
 
-## Preparações - Metodologia 1
+## Preparações
 
-A memória é muito simples e, ao mesmo tempo, complexa de explicar.
+### Se apresente!!!
 
-![Memory Addresses](assets/img/adresses.png){:width="200"}
-![OS Memory Map](assets/img/paging.png){:width="500"}
+* Nome.
+* Idade.
+* O que gosta de fazer?
+* O que mais gosta de jogar?

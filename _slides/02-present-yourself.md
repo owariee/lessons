@@ -2,8 +2,6 @@
 transition: zoom
 ---
 
-## Preparações
-
 ### Se apresente!!!
 
 * Nome.

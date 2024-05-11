@@ -2,7 +2,7 @@
 transition: zoom
 ---
 
-## Preparações - Meus Projetos
+## Meus Projetos
 
 * [wav-player](https://github.com/owariee/wav-player): Player de músicas em formato raw.
 * [cemu-mouse](https://github.com/owariee/cemu-mouse): Fork do Emulador de WiiU com adição do mouse como controle de câmera.
